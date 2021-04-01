@@ -1,0 +1,175 @@
+
+.container{
+width: 80%;
+margin: auto;
+}
+.containerb{
+    width: 100%;
+    height: 80px;
+    background-color: #232323;
+
+}
+.equip{
+    font-size: 55px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img3{ float: right;
+    margin-top: 205px ;
+    margin-right:300px;
+    padding-left: 10px; 
+ 
+}
+.img2{
+    
+    margin-top: 100px ;
+    margin-left: 350px;
+    padding-left: 10px; 
+
+}
+.icon{
+    float: left;
+    margin-top: 100px ;
+    margin-left: 255px;
+    padding-left: 10px; 
+    
+   
+}
+.sobre{
+width: 80%;
+margin: auto;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+}
+.valores{
+    float: left;
+    border-radius: 20px;
+    color: whitesmoke;
+    width: 20%;
+    margin-top: 30px ;
+    margin-left: 180px;
+    padding-left: 10px;
+    height: 70%;
+    background-color: orangered;
+    font-weight: lighter;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.visao{
+    float: left;
+    border-radius: 20px;
+    color: whitesmoke;
+    width: 20%;
+    margin-top: 30px ;
+    margin-left: 180px;
+    padding-left: 10px;
+    height: 70%;
+    background-color: orangered;
+    font-weight: lighter;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+.missao{
+    float: left;
+border-radius: 20px;
+color: whitesmoke;
+width: 20%;
+margin-top: 30px ;
+margin-left: 180px;
+padding-left: 10px;
+height: 70%;
+background-color: orangered;
+font-weight: lighter;
+font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+
+body{
+    font-family: Arial,Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}       
+.btn-orange{
+    background-color: orangered;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.header{
+background-color: #232323;
+width: 100%;
+height: 80px;
+border-bottom: solid orangered 3px;
+}
+
+.header h1{
+    float: left;
+     color: white;
+    }
+
+.header ul{
+    list-style: none;
+    float: right;
+}
+
+.header ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.header li{
+    display: inline-block;
+    font-size: 17px;
+    padding: 6px;
+    background-color: #444444;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.header h1, .header ul {
+margin-top: 25px;
+padding: 2;
+}
+
+.header .text-orange{
+    color: orangered;
+    font-weight: bold;
+}   
+
+
+.banner{
+    width: 100%;
+    height: 400px;
+    background-image: url('./img/img1.jpg');
+    background-size: cover;
+    text-align: center;
+}
+
+.banner h1{
+    color: orangered;
+    padding-top: 100px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+.banner h3{
+    font-weight: lighter;
+    font-size: 25px;
+    margin-top: 15px;
+}
+.news{
+    width: 100%;
+    height: 80px;
+    background-color: #232323;
+    text-align: center;
+}
+.news button{
+    margin-top: 20px;
+}
